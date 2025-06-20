@@ -1,0 +1,4 @@
+Scanning target: 142.251.220.110 (Ports 1-1000)
+==================================================
+[OPEN] Port 80: HTTP - Web traffic on unencrypted websites
+[OPEN] Port 443: HTTPS - Secure web traffic with encryption
