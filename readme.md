@@ -35,7 +35,7 @@ Enter ending port: 90
 Output (Terminal):
 Resolved target IP: 142.250.190.78
 Scanning target: 142.250.190.78 (Ports 1-90)
-
+==================================================
 [OPEN] Port 80: HTTP - Web traffic on unencrypted websites
 [OPEN] Port 443: HTTPS - Secure web traffic with encryption
 
@@ -45,7 +45,7 @@ Port 443: HTTPS - Secure web traffic with encryption
 
 Output (scan_results.txt):
 Scanning target: 142.250.190.78 (Ports 1-90)
-
+==================================================
 [OPEN] Port 80: HTTP - Web traffic on unencrypted websites
 [OPEN] Port 443: HTTPS - Secure web traffic with encryption
 
