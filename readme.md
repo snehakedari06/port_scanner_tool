@@ -32,9 +32,9 @@ Enter target IP or hostname: google.com
 Enter starting port: 1
 Enter ending port: 90
 
-Output (Terminal):
+<h2>Output (Terminal):
 Resolved target IP: 142.250.190.78
-Scanning target: 142.250.190.78 (Ports 1-90)
+Scanning target: 142.250.190.78 (Ports 1-90)</h2>
 ==================================================
 [OPEN] Port 80: HTTP - Web traffic on unencrypted websites
 [OPEN] Port 443: HTTPS - Secure web traffic with encryption
@@ -43,8 +43,8 @@ Scan Summary:
 Port 80: HTTP - Web traffic on unencrypted websites
 Port 443: HTTPS - Secure web traffic with encryption
 
-Output (scan_results.txt):
-Scanning target: 142.250.190.78 (Ports 1-90)
+<h2>Output (scan_results.txt):
+Scanning target: 142.250.190.78 (Ports 1-90)</h2>
 ==================================================
 [OPEN] Port 80: HTTP - Web traffic on unencrypted websites
 [OPEN] Port 443: HTTPS - Secure web traffic with encryption
